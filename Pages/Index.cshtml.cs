@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Runtime.InteropServices;
 
-namespace sirkuit4dedge.Pages;
+namespace akunvipgacor.Pages;
 
 public class IndexModel : PageModel
 {
